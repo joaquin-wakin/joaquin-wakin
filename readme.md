@@ -1,6 +1,6 @@
 # John Joaquin A. Valdez
 
-## **Front-End Web Developer**
+**Front-End Web Developer**
 
 Hi! I am John Joaquin Valdez, 18 years old, and a Front-End Web Developer from the Philippines with 2 years of experience.
 
@@ -45,3 +45,18 @@ I am still studying as of the moment, but I am good at time and task management,
 - React.js
 - SCSS
 - webpack
+
+## **Hobbies**
+
+- Learning something new
+- Listening to music
+- Planning my daily life
+- Project management
+- UI designing
+- Watching YouTube videos
+- Web development
+
+## **Languages**
+
+- English
+- Tagalog
