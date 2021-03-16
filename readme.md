@@ -1,12 +1,11 @@
-# Hi there!
+# Hi there! :blush:
 
 Here are some ideas to get you started:
 
-- :bookmark_tabs: I'm currently working on...
-- I'm currently learning...
-- I'm looking to collaborate with...
-- I'm looking for help with...
-- Ask me about anything...
-- Reach me through
-- Pronouns:
-- Fun fact:
+- I'm currently working on...
+- I'm currently learning React.js
+- I'm looking to collaborate with Front and Back-End Developers
+- I'm looking for help with Back-End Development.
+- Ask me about anythin.
+- Reach me through my e-mail.
+- Pronouns: He, him, his
