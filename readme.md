@@ -8,8 +8,6 @@ I am still studying as of the moment, but I am good at time and task management,
 
 ## **Education**
 
----
-
 - **Academia De San Lorenzo, Dema-ala Inc., Philippines**
 
   _June 2008 – April 2019_
@@ -24,8 +22,6 @@ I am still studying as of the moment, but I am good at time and task management,
 
 ## **Work Experience**
 
----
-
 - **Front-End Web Developer**
 
   _June 2019 – Present_
@@ -33,8 +29,6 @@ I am still studying as of the moment, but I am good at time and task management,
   I started from small to medium projects. I have developed a news website before and I consider that as a big one as it has API and reusable components (React.js).
 
 ## **Skills**
-
----
 
 - Adobe After Effects
 - Adobe Photoshop
