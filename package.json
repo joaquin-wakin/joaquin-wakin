@@ -1,0 +1,18 @@
+{
+  "name": "joaquin-wakin",
+  "version": "1.0.0",
+  "description": "A Front-End Developer from the Philippines.",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaquin-wakin/joaquin-wakin.git"
+  },
+  "keywords": [],
+  "author": "John Joaquin A. Valdez",
+  "license": "ISC"
+}
