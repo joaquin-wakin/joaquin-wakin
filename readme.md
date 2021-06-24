@@ -20,15 +20,13 @@ A Front-End Developer from the Philippines.
 
 - **Freelance Front-End Web Developer**
 
-  _October 2020 – Present_
+  _October 2020 – May 2021_
 
   I started from small to medium projects. I have formed a news website before, and I consider that as a big one as it has API and reusable components (React.js). I also developed a landing page for a company last year.
 
-  - **Front-End Web Developer at Hyperzon**
+- **Front-End Web Developer at Hyperzon**
 
-  _May 7, 2020 – Present_
-
-  ...
+  _May 7, 2021 – Present_
 
 ## Technologies I Use
 
