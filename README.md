@@ -53,7 +53,6 @@ A Front-End Developer from the Philippines.
 - SCSS
 - Tailwind CSS
 - Vite
-- Vite
 - Vue.js
 - webpack
 
