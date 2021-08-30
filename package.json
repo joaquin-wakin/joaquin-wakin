@@ -1,9 +1,5 @@
 {
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/joaquin-wakin/joaquin-wakin.git"
-  },
   "scripts": {
     "lint:md": "markdownlint **/*.md",
     "style": "prettier --write ."
